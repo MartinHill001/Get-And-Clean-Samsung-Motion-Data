@@ -138,3 +138,4 @@ tBodyGyroJerkMean
 
 ## Data Transformations
 Removed brackets from variable names.
+Replaced hyphens with underscores.
