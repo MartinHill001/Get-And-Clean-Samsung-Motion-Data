@@ -1,15 +1,15 @@
 ## Introduction
 
-This repo uses data sourced from the <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"</a>
-Human Activity Recognition Using Smartphones Data Set as part of the Coursera Course "Getting and Cleaning Data". A script called
+This repo uses data sourced from the <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">
+Human Activity Recognition Using Smartphones Data Set</a> as part of the Coursera Course "Getting and Cleaning Data". A script called
 "run_analysis.R" performs the task of getting and cleaning data and outputs a tidy aggregated table written to "samsung_motions.txt".
 
 
 The course web site:
 
-* <b>Assignment</b>: <a href=https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project"</a>Getting and cleaning data course project.
+* <b>Assignment</b>: <a href=https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project">Getting and cleaning data course project.</a>
 
-* <b>Dataset Provided</b>: <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"</a> [59.6MB]
+* <b>Dataset Provided</b>: <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">getdata_projectfiles_UCI HAR Dataset.zip</a> [59.6MB]
 
 * <b>Dataset Description</b>: A full description of the data is contained in the aforementioned zipfile, but what follows is a brief outline.
 
