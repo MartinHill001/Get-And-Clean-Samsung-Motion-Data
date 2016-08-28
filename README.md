@@ -7,7 +7,7 @@ Human Activity Recognition Using Smartphones Data Set</a> as part of the Courser
 
 The course web site:
 
-* <b>Assignment</b>: <a href=https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project">Getting and cleaning data course project.</a>
+* <b>Assignment</b>: <a href="https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project">Getting and cleaning data course project.</a>
 
 * <b>Dataset Provided</b>: <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">getdata_projectfiles_UCI HAR Dataset.zip</a> [59.6MB]
 
