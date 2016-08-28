@@ -1,7 +1,7 @@
 ## Introduction
 
 A tidy aggregated table written to "samsung_motions.txt" using script "run_analysis.R" that gets and cleans the data 
-sourced from the <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"</a>
+sourced from the <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"</a>The UCI Machine Learning Repository.
 
 Experiments had been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
